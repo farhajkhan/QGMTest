@@ -1,0 +1,365 @@
+.expContent{
+    margin: 4px;
+    font-size: 19px;
+}
+
+.expSection{
+    margin-left: 330px;
+}
+
+.aboutSection{
+    margin-left: 330px;
+}
+
+.profileContent{
+    font-size: 19px;
+    font-family: Avenir-Book;
+}
+
+.profileAbout{
+    font-size: 30px;
+    font-family: Avenir;
+}
+
+.faIcons:hover{
+    color: #036031 !important;
+}
+
+.AboutUs.profile{
+    color: #036031;
+}
+
+.row.envelope{
+    margin-top: -10px;
+    margin-left: 5px;
+}
+
+.row.name{
+    margin-top: 220px;
+    margin-left: 5px;
+}
+
+.card-text.team-name{
+    color: black;
+    font-family: Avenir;
+    font-size: 18px;
+}
+
+.card-title.teamName{
+    white-space: nowrap;
+    overflow: hidden;
+    font-size: 27px;
+}
+
+.nav-link.teamPageLinks{
+    color: #0a733e;
+}
+
+.active.teamPageLinks{
+    background-color: #0a733e !important;
+    color: white;
+}
+
+.eventsTextPara{
+    margin-left: -15px;
+    color: #4f5053;
+}
+
+.eventsText{
+    margin-left: -50px;
+}
+
+.queensImage{
+    margin-left: 200px;
+}
+
+.texties{
+    margin-top: -10px;
+    color: #4f5053;
+}
+
+.texties2{
+    margin-left: -430px;
+    padding-left: 50px
+}
+
+.texties1{
+    padding-left: 50px;
+}
+
+.whatWeDo{
+    background-color: #f4f2f2;
+    padding-bottom: 100px;
+    margin-top: 60px;
+    margin-bottom: -100px;
+}
+
+.figure{
+    margin: 29px 100px;
+}
+
+.figure-caption.whatWeDoText{
+    font-family: Avenir-Medium;
+    font-size: 25px;
+    margin-top: 20px;
+    color: black;
+}
+
+.presImage1{
+    margin-left: 45px;
+}
+
+.presIcon{
+    width: 150px;
+    height: 150px;
+}
+
+.logoss{
+    width:800px;
+    display: block;
+    margin: 40px auto;
+}
+
+.AboutUsContent{
+    font-family: Avenir;
+    font-size: 16px;
+    width: 60%;
+    margin: 0 auto;
+    line-height: 30px;
+    margin-top: 20px;
+    text-align: justify;
+    color: #353535;
+}
+
+.AboutUs{
+    font-size: 60px;
+    color: #024824;
+    font-family: Avenir-Black;
+    margin-top: 30px;
+}
+
+.card-body.lowerReportsCardContent{
+    margin-left: -20px; 
+    margin-top: -10px;
+}
+
+.card-text.lowerReportsContent{
+    margin-top: -10px;
+}
+
+.card-title.lowerReportTitle{
+    font-size: 45px;
+}
+
+.sub-title.lowerReportsTeam{
+    margin-top: 30px;
+    font-size: 20px;
+    color: #036031;
+}
+
+.card-text.underButton.lower-cards.reportLower{
+    font-size: 22px;
+    margin-top: 0px;
+}
+
+.lowerImages{
+    margin-left: -40px;
+}
+
+.card.moreCards{
+    height: 250px;
+    border-top: none !important;
+}
+
+.card-header.reportsSection{
+    font-size: 25px;
+    background-color: #024824;
+    color: white;
+    width: 1280px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-left: -15px;
+}
+
+.card-title.vidDescript{
+    font-size: 18px;
+    font-family: Avenir-Book;
+    color: black;
+}
+
+.card-title.vidTitle{
+    font-size: 38px;
+    color: #024824
+}
+
+
+.card-title.vid-team{
+    font-size: 20px;
+    color: #036031;
+}
+
+.card-header.vidSectionTitle{
+    font-size: 25px;
+    background-color: #024824;
+    color: white;
+    width: 1280px;
+    margin-left: -15px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.card.video-card{
+    height: 500px;
+}
+
+.btn.btn-success.btn-lg:hover, .btn.btn-success.btn-lg:focus, .btn.btn-success.btn-lg:active{
+    transition: 0ms;
+    border: 2px solid #024824 !important;
+    background-color: #024824;
+    outline: none;
+    box-shadow: none!important;
+}
+
+.btn.btn-success.btn-lg{
+    background-color: #024824;
+    border: none !important;
+}
+
+.CTA{
+    margin-bottom: 20px;
+}
+
+.headingA{
+    margin-bottom: -110px;
+}
+
+.endContact{
+    color: white;
+    margin-bottom: -100px;
+    margin-top: 100px;
+    height: 220px;
+    background-color: #036031;
+    font-family: Avenir;
+    font-size: 30px;
+}
+
+.descript{
+    color: white;
+    font-family: Avenir-Book;
+}
+
+.aboutUs{
+    color: white;
+    font-size: 30px;
+}
+
+footer{
+    background-color: #323332;
+    margin-top: 100px;
+    height: 180px;
+}
+
+.lower-card-img{
+    margin-bottom: -20px;
+}
+
+.card.lower-card{
+    height: 550px;
+}
+
+.card.pres-card{
+    height: 770px;
+    margin-left: 80px;
+}
+
+.card-header.pres-schedule{
+    background-color: #036031;
+    color: white;
+    width: 400px;
+    margin-left: -15px;
+}
+
+.card-title.pres-team{
+    font-size: 14px;
+    margin-top: -8px;
+    color: #036031;
+}
+
+.card-title.pres-date{
+    font-size: 16px;
+    margin-top: -5px;
+    color: black;
+}
+
+.card-title.pres-title{
+    font-size: 19px;
+}
+
+.card-text.description{
+    font-size: 16px;
+}
+
+.cardButtonBottom a{
+    text-decoration: none;
+}
+
+.card-text.underButton.lower-cards{
+    margin-top: 40px;
+}
+
+
+.card-text.underButton{
+    color: #045f33;
+    font-size: 18px;
+    margin-top: 75px;
+}
+
+.card-img {
+    height: 217.5px;
+    width: 366.25px;
+    margin-left: 40px;
+}
+
+.card.top-card{
+    margin-bottom: -20px;
+    height: 260px;
+    width: 850px;
+}
+
+.card.content-card{
+    background-color: #f3f3f3;
+    border-top: 3px solid #014923;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
+
+.card-title{
+    color: #014923;
+    font-family: Avenir-Medium;
+    font-size: 32px;
+}
+
+.logo{
+    height: 75px;
+}
+
+.navbar{
+  background-color: #045f33;
+} 
+
+.navbar-brand{
+    font-size: 50px;
+}
+
+.nav-item{
+    font-family: Avenir;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.card-text.sub-title{
+    color: #014923;
+    margin-bottom: 0;
+    font-family: Avenir-Medium;
+}
